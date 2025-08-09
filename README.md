@@ -12,11 +12,11 @@ In today’s constrained global financing environment, development lenders need 
 7. Which countries become most at risk of negative net flows under that scenario?
 
 ## Analysis Steps
-1. **Step 1:** Import data (.csv files) into SQL Sever
-2. **Step 2:** Exploring Data
-3. **Step 3:** Profiling Data
-4. **Step 4:** Cleaning Data
-5. **Step 5:** Data Analysis 
+**Step 1:** Import data (.csv files) into SQL Sever
+**Step 2:** Exploring Data
+**Step 3:** Profiling Data
+**Step 4:** Cleaning Data
+**Step 5:** Data Analysis 
 
 ## Insights
 - **Variance vs. commitments:** In 2025, major borrowers under-drew—Brazil (-$4.0B), India (-$1.9B), Turkiye (-$1.91B), while over-disbursement was concentrated in Ukraine (+$4.85B), Ethiopia (+$2.77B), and Nigeria (+$0.94B), signaling uneven execution across portfolios.
