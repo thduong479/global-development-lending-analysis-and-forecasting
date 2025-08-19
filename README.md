@@ -2,7 +2,7 @@
 
 In today’s constrained global financing environment, development lenders need clear visibility into where funds actually land and where repayment pressure is building. This project analyzes a multi-year dataset of 3,000+ country-year records on commitments, disbursements, and repayments (including interest and fees) to measure variance vs. commitments, debt-service burden, and regional momentum (focus: 2021–2025). The work surfaces which portfolios are accelerating or stalling, and adds 2026 forecasts plus a +3% rate-shock scenario to show who is most at risk of negative net flows.
 
-In this project, I have used a dataset from the World Bank:
+In this project, I have used a dataset from the World Bank Group:
 > - [Word Bank dataset](https://financesone.worldbank.org/ibrd-and-ida-net-flows-commitments/DS00044)
 
 ## Questions to be explored
